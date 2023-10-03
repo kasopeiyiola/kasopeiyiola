@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kasopeiyiola
-- 👀 I’m interested in software development and software testing
-- 🌱 I’m currently learning python(Django) and sql for backend development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cloud Engineering
+- 💞️ I’m looking to collaborate on AWS Cloud Projects
 - 📫 How to reach me kasope14@gmail.com
 
 <!---
